@@ -4,7 +4,7 @@
 
 > [**NanoHTNet: Efficient 3D Human Pose Estimation with Human Topology on Jetson Nano**](https://arxiv.org/pdf/2302.09790),            
 > Jialun Cai, Mengyuan Liu, Hong Liu, Wenhao Li, Ya Guo  
-> *In IEEE Transactions on Image Processing (TIP), 2024*
+> *Submitted in IEEE Transactions on Image Processing (TIP), 2024*
 
 <p align="center"><img src="figure/motivation_com.png" width="60%" alt="" /></p>
 <p align="center"><img src="figure/poseclr.png" width="90%" alt="" /></p>
