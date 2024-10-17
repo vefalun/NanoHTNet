@@ -3,7 +3,7 @@
 <p align="center"><img src="figure/htnet.png" width="90%" alt="" /></p>
 
 > [**Efficient 3D Human Pose Estimation for Edge AI**](https://arxiv.org/pdf/2302.),            
-> Jialun Cai, Mengyuan Liu, Hong Liu, Wenhao Li, Shuheng Zhou
+> Jialun Cai, Mengyuan Liu, Hong Liu, Wenhao Li, Shuheng Zhou      
 > *Submitted in IEEE Transactions on Image Processing (TIP), 2024*
 
 <p align="center"><img src="figure/motivation_com.png" width="60%" alt="" /></p>
