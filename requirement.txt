@@ -1,0 +1,8 @@
+einops
+timm
+tensorboardX
+scipy
+filterpy
+tqdm
+torch_dct
+ptflops
