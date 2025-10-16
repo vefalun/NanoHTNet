@@ -37,7 +37,7 @@ Let's take a receptive field of 243 frames and an actual input of 9 frames as an
 ```
 python main.py \
     --reload \
-    --previous_dir /mnt/e/NanoHTNet/ckpt/demo \
+    --previous_dir ./ckpt/demo \
     --frames 243 \
     --gpu 0 \
     --keep_frames 9 
