@@ -1,8 +1,8 @@
-# Efficient 3D Human Pose Estimation for Edge AI
+# NanoHTNet: Efficient 3D Human Pose Estimation for Edge AI
 
 <p align="center"><img src="figure/htnet.png" width="90%" alt="" /></p>
 
-> [**Efficient 3D Human Pose Estimation for Edge AI**](https://arxiv.org/pdf/2302.),            
+> [**NanoHTNet: Nano Human Topology Network for Efficient 3D Human Pose Estimation**](https://arxiv.org/pdf/2302.),            
 > Jialun Cai, Mengyuan Liu, Hong Liu, Wenhao Li, Shuheng Zhou      
 > *In IEEE Transactions on Image Processing (TIP), 2025*
 
