@@ -3,7 +3,7 @@
 <p align="center"><img src="figure/htnet.png" width="90%" alt="" /></p>
 
 > [**NanoHTNet: Nano Human Topology Network for Efficient 3D Human Pose Estimation**](https://ieeexplore.ieee.org/document/11169431),            
-> Jialun Cai, Mengyuan Liu, Hong Liu, Shuheng Zhou, Wenhao Li
+> Jialun Cai, Mengyuan Liu, Hong Liu, Shuheng Zhou, Wenhao Li    
 > *In IEEE Transactions on Image Processing (TIP), 2025*
 
 <p align="center"><img src="figure/motivation_com.png" width="60%" alt="" /></p>
